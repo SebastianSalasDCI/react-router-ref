@@ -1,6 +1,6 @@
-# React Router Reference with Context
+# React Router Reference
 
-This presents a small example of how to implement react router private and public routes with the use of context.
+This presents a small example of how to implement react router private and public routes.
 
 ## To test:
 - npm install
