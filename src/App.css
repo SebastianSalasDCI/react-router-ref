@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.swicthCont{
+  margin-top: 70px;
+}
+
+.logContainer {
+  width: 60%;
+  height: 67vh;
+  margin: 0 auto;
+}
+
+.regContainer {
+  width: 60%;
+  margin: 0 auto;
+  height: 67vh;
+}
